@@ -2,6 +2,7 @@
 홈페이지 설명: 자기 소개 및 포트폴리오 포함
 테마 출처: Start Bootstrap의 Freelancer
 Github 주소: https://github.com/StepNutria/StepNutria
+홈페이지 주소: https://stepnutria.github.io/StepNutria/
 
 <!--
 **StepNutria/StepNutria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

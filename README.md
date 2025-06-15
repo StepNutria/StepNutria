@@ -1,4 +1,7 @@
-20252220 김찬중 웹스 학기말과제 테마 출처: Start Bootstrap의 Freelancer
+20252220 김찬중 웹스 학기말과제 
+홈페이지 설명: 자기 소개 및 포트폴리오 포함
+테마 출처: Start Bootstrap의 Freelancer
+Github 주소: https://github.com/StepNutria/StepNutria
 
 <!--
 **StepNutria/StepNutria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
